@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @9w2zsh
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Amateur Radio
+- 🌱 I’m currently learning for Class A exam
+- 💞️ I’m looking to collaborate on Apps and Tools for Amateur Radio operator use
 - 📫 How to reach me: 9w2zsh[at]gmail[dot]com
 
 <!---
